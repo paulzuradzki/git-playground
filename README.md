@@ -1,10 +1,3 @@
 # git-playground
-Demoing git commands and collaboration
-
-Attendees:
-* Paul Z
-* Shruthi S
-* Trish P
-* Chiara D
-
-
+* Demoing git commands and collaboration
+* How to work with remote repositories
